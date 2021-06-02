@@ -1,2 +1,2 @@
 # zillow_price
-Kaggle Competiton : House value predictions 
+Kaggle Competition : House value predictions 
